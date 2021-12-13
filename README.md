@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Doing stuff to help others
 
 <img src="https://github-readme-stats.vercel.app/api?username=saka-8&&show_icons=true&title_color=ferskk&icon_color=4AA557&text_color=B3486F&bg_color=151515"></img>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
