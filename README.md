@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on `TeckStack` upgradation
-- -💬 Ask me about React Native and Javascript
+- 💬 Ask me about React Native and Javascript
 - 🌱 I’m currently learning React and NodeJS
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Doing stuff to help others
