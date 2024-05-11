@@ -4,10 +4,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on `TeckStack` upgradation
-- 💬 Ask me about React Native and Javascript
-- 🌱 I’m currently learning React and NodeJS
+- 💬 Ask me about React Native, React and Javascript
+- 🌱 I’m currently learning C++ and NodeJS
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Doing stuff to help others
+- ⚡ Fun fact: Doing stuff to FIX my life
 
 ### How to reach me: 
 - E-mail: `mailtoshashidhara@gmail.com`
